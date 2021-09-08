@@ -1,0 +1,22 @@
+.color{
+    background-color: #23232e;
+}
+.letras{
+    color: blanchedalmond;
+    font-family: Arial;
+    font-size: 20px;
+}
+.card{
+    transition: .6s;
+}
+.card:hover h5{
+    text-decoration: underline;
+}
+.img_carousel{
+    height: 720px;
+    width: 460px;
+}
+.link{
+    text-decoration: none;
+    color: #23232e;
+}
